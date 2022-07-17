@@ -1,7 +1,7 @@
 ### Hi, I’m Chittesh Sham 👋 -- call me Tesh
-#### Specialities: TailwindCSS, AWS, Docker, Kubernetes, Ansible, Terraform, ZigLang, Bash, Python
+#### My Specialities are: TailwindCSS, Linux, AWS, Docker, Kubernetes, Ansible, Terraform, ZigLang, Bash, Python
 
-<!---
-shamchittesh/shamchittesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align ="center"> 
+	<a href="mailto:shamchittesh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/chittesh-sham-956ba5a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
