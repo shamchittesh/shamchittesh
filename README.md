@@ -1,5 +1,5 @@
 ### Hi, I’m Chittesh Sham 👋 -- call me Tesh
-#### My Specialities are: TailwindCSS, Linux, AWS, Docker, Kubernetes, Ansible, Terraform, ZigLang, Bash, Python
+#### My Specialities are: TailwindCSS, Linux, AWS, Docker, Kubernetes, Ansible, Terraform, Bash, Python
 
 <div align ="center"> 
 	<a href="mailto:shamchittesh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
